@@ -8,6 +8,14 @@ The individual experiments of our papers are now in dedicated repositories due t
 
 List of experiment repositories:
 
+> 【译】**MedicalDataAugmentationTool**
+> 该工具允许对医学成像领域的网络进行实时增强和培训。它使用[SimpleITK](http://www.simpleitk.org/)加载和扩充输入数据，以及[Tensorflow](https://www.tensorflow.org/)以定义和训练网络。
+> 由于该框架主要用于研究，一些文件没有得到很好的记录。然而，我正在努力改进这一点。
+> 如果你有问题或发现任何错误，请随时给我发消息。
+> 更新：带有示例实验的“bin”文件夹已被删除。
+> 由于内存需求的增加，我们论文的单个实验现在都在专用的存储库中。
+> 实验存储库列表：
+
   * [HeatmapRegression](https://github.com/christianpayer/MedicalDataAugmentationTool-HeatmapRegression)
   * [MMWHS](https://github.com/christianpayer/MedicalDataAugmentationTool-MMWHS)
   * [CellTracking](https://github.com/christianpayer/MedicalDataAugmentationTool-CellTracking)
